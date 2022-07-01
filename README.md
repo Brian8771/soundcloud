@@ -2,7 +2,7 @@
 
 ## Database Schema Design
 
-`<insert database schema design here>`
+![db.diagram](images/Soundcloud.png)
 
 ## API Documentation
 
